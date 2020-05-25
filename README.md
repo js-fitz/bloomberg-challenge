@@ -1,7 +1,7 @@
 # Bloomberg Challenge
 ### 1D Candy Crush 
 
-This coding challenge comes from a Bloomerg interview question posted on leetcode, introduced to me by my instructor at General Assembly. The challenege is deceptively simple, taking me the better part of a weekend to solve. I since shortened the code and added extensive documentation to the .py file as a practice in the tradeoff between efficiency and explainability. 
+This coding challenge comes from a Bloomerg interview question posted on leetcode, introduced to me by my instructor at General Assembly. The challenge is deceptively simple, taking me the better part of a weekend to solve. I since shortened the code and added extensive documentation to the .py file as a practice in the tradeoff between efficiency and explainability. 
 
 https://leetcode.com/discuss/interview-question/380650/Bloomberg-or-Phone-Screen-or-Candy-Crush-1D
 
