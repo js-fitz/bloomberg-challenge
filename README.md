@@ -1,7 +1,7 @@
 # Bloomberg Challenge
-1D Candy Crush 
+### 1D Candy Crush 
 
-This coding challenge comes from a Bloomerg interview question posted on leetcode:
+This coding challenge comes from a Bloomerg interview question posted on leetcode, introduced to me by my instructor at General Assembly.
 
 https://leetcode.com/discuss/interview-question/380650/Bloomberg-or-Phone-Screen-or-Candy-Crush-1D
 
@@ -11,7 +11,7 @@ To summarize, the goal is to create a function that will remove chunks of 3 or m
 
 The "hard" version requires a brute-force approach to check all possiblities, for example:
 
-`aaabbbaa` --> ` ` (solution: remove 3 b's, remove 5 a's) — requires waiting to delete the a's until after b's are removed.
+`aaabbbaa` --> `''` (solution: remove 3 b's, remove 5 a's) — requires waiting to delete the a's until after b's are removed.
 
 Even harder:
 
